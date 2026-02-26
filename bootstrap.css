@@ -1,0 +1,49 @@
+.navbg {
+    background-color: #258e28;
+}
+
+.sidebg {
+    background-color: #258e28;
+}
+
+.cimg {
+    height: 380px;
+    object-fit: cover;
+    filter: brightness(0.5);
+}
+
+.gimg {
+    height: 170px;
+    object-fit: cover;
+}
+
+.chl {
+    background-color: #41ac41;
+}
+
+.chg {
+    background-color: #258e28;
+}
+
+.gbdr {
+    border: 2px solid #258e28;
+}
+
+.gprice {
+    color: #258e28;
+}
+
+.mhg {
+    background-color: #258e28;
+}
+
+.gbtn {
+    background-color: #258e28;
+    color: white;
+}
+
+
+
+.footbg {
+    background-color: #258e28;
+}
